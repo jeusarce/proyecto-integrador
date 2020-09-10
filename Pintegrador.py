@@ -15,7 +15,9 @@ class Banco():
         self.efectivo=input("dinero a ingrear")
         return efectivo
 
-    def 
+    def RetiraEfectivo(self):
+        self.retira=input("cuanto va a retirar")
+        return retira
 
 
 opcion=input("que accion va a realizar")
