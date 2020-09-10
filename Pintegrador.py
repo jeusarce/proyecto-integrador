@@ -19,6 +19,10 @@ class Banco():
         self.retira=input("cuanto va a retirar")
         return retira
 
+    def eliminar(self):
+        self.elimina=input("que eliminara")
+        
+
 
 opcion=input("que accion va a realizar")
 
